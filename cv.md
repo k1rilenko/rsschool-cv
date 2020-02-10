@@ -32,7 +32,7 @@
 * Html Mentor        1.01.2019 -now    HTML Academy
 * Junior Frontend    4.02.2019 - now   webcat.by
 * Frontend developer 1.08.2019 - 1.11.2019 Imedia Solutions
-* Frontend developer 9.12.2019 - now  JazzPixels
+* Frontend developer 9.12.2019 - now JazzPixels
 ## Courses 
 * HTML Academy  - [Basic HTML and CSS](https://assets.htmlacademy.ru/certificates/intensive/93/237652.pdf)
 * HTML Academy  - [Basic JavaScript](https://assets.htmlacademy.ru/certificates/intensive/33/237652.pdf)
